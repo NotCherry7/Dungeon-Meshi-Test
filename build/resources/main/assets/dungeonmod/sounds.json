@@ -1,0 +1,9 @@
+{
+  "mandrake_scream" : {
+    "subtitles": "sounds.dungeonmod.mandrake_scream",
+    "sounds": [
+      "dungeonmod:mandrake/mandrake_scream",
+      "dungeonmod:mandrake/mandrake_scream_3"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "dungeonmod:cooking_pot",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "items": ["minecraft:empty", "minecraft:air", "minecraft:stick"]
+    },
+    {
+      "items": ["minecraft:empty", "minecraft:air", "minecraft:stick"]
+    },
+    {
+      "items": ["minecraft:empty", "minecraft:air", "minecraft:stick"]
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "minecraft:diamond"
+  }
+}
