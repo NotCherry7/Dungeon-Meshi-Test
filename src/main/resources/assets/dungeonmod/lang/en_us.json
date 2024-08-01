@@ -1,0 +1,24 @@
+{
+  "item.dungeonmod.fire_shard": "Fire Shard",
+  "item.dungeonmod.mandrake": "Mandrake",
+  "item.dungeonmod.mandrake_head": "Mandrake Head",
+  "item.dungeonmod.mandrake_spawn_egg": "Mandrake Spawn Egg",
+
+  "sounds.dungeonmod.mandrake_ambient": "Mandrake Ambient",
+  "sounds.dungeonmod.mandrake_scream": "Mandrake Screams",
+  "sounds.dungeonmod.mandrake_hurt": "Mandrake Screams",
+  "sounds.dungeonmod.mandrake_death": "Mandrake Dies",
+
+  "effect.dungeonmod.stun_effect": "Stun",
+  "item.minecraft.potion.effect.stun_potion": "Stun Potion",
+  "item.minecraft.splash_potion.effect.stun_potion": "Splash Potion of Stun",
+  "item.minecraft.lingering_potion.effect.stun_potion": "Lingering Potion of Stun",
+  "item.minecraft.tipped_arrow.effect.stun_potion": "Arrow of Stun",
+
+  "block.dungeonmod.cooking_pot": "Cooking Pot",
+
+  "death.attack.mandrake": "%1$s was overwhelmed by a Mandrake's scream",
+  "death.attack.mandrake.player": "%1$s was overwhelmed by a Mandrake's scream while fighting %2$s",
+
+  "creativetab.dungeon_tab": "Dungeon Mod Items"
+}
